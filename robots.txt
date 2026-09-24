@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sodaro-coder.github.io/shopsavvy-templates/sitemap.xml
